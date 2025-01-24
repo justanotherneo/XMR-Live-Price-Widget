@@ -29,7 +29,7 @@ root.geometry("500x300")  # Width x Height of the window
 root.config(bg="#1e1e1e")  # Dark background color
 
 # Load the Monero logo image
-logo_path = r"C:\Users\crzym\Documents\monero.png" 
+logo_path = "monero.png" 
 logo_image = Image.open(logo_path)
 logo_image = logo_image.resize((50, 50))  
 logo_tk = ImageTk.PhotoImage(logo_image)
