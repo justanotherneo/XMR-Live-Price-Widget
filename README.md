@@ -20,7 +20,7 @@ XMR Wallet for Donations
 483vaWanCJeBTy3EsBs9kwHqpXEzgSTva5cXbdE1o5iSRxXnVkZk1Ud6uq9WSfcU2HdTTPjFAfySR2yxpahvU6dSSrMJA7o
 
 Paypal
-crzydesignstudio@gmail.com
+services@crzycybersecurity.com
 
 
 How to set up the program
